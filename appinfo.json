@@ -1,0 +1,15 @@
+{
+  "uuid": "YOUR-UUID-GOES-HERE",
+  "shortName": "Ride Tracker",
+  "longName": "Ride Tracker",
+  "companyName": "Jon Eby",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {},
+  "resources": {
+    "media": []
+  }
+}
